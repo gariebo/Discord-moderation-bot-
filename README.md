@@ -17,10 +17,18 @@ Feel free to customize the bio as per your requirements, and provide additional 
 !queue: A command that displays the current song queue.
 
 
->[pip install discord requests youtube_dl xp_module]
+> [pip install discord requests youtube_dl xp_module]
+> discord: pip install discord
+> requests: pip install requests
+> youtube_dl: pip install youtube_dl
+> xp_module: pip install xp_module
+> functools: pip install functools
+> database, json, time, sys, subprocess, and os are built-in modules in 
 
 
-
+replace > /main.py > line = 194-bot-token 
+replace > /main.py > line = 129 > the owners/admin
+change the code @commands.has_any_role("Moderator","ðŸ‘‘ãƒ»Server Founder") > to your admim/owner role name 
 
 
 
