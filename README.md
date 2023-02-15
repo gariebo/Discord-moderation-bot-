@@ -31,6 +31,10 @@ replace > /main.py > line = 129 > the owners/admin
 change the code @commands.has_any_role("Moderator","ðŸ‘‘ãƒ»Server Founder") > to your admim/owner role name 
 
 
+python3 main.py
+
+
+
 
 
 
